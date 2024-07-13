@@ -23,6 +23,54 @@
             "imagen": "https://i3.ytimg.com/vi/lKdje2IjmMw/maxresdefault.jpg",
             "video": "https://www.youtube.com/watch?v=lKdje2IjmMw&pp=ygUXdHJhaWxlciB5b3dhbXVzaGkgcGVkYWw%3D",
             "categoria": "Deportes"
+        },
+        {
+            "id": 4,
+            "titulo": "ONE PIECE | Netflix Trailer | Anime Version",
+            "descripcion": "Monkey D. Luffy se niega a que nadie se interponga en su camino para convertirse en Rey de los Piratas. Se lanza a surcar los mares y se convertirá en un capitán dispuesto a no darse cuenta por vencido jamás hasta hacerse con el mayor tesoro de la historia: el legendario One Piece.",
+            "imagen": "https://i3.ytimg.com/vi/MCb13lbVGE0/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=MCb13lbVGE0&pp=ygURdHJhaWxlciBvbmUgcGllY2U%3D",
+            "categoria": "Shounen"
+        },
+        {
+            "id": 5,
+            "titulo": "MASHLE: MAGIC AND MUSCLES | TRÁILER OFICIAL",
+            "descripcion": "Este es un mundo de magia. Este es un mundo en el que todos usan la magia habitualmente. En un bosque profundo y oscuro de este mundo de magia, hay un chico que se ejercita a diario. Su nombre es Mash Burnedead y tiene un secreto: no puede usar magia. El único que quería era vivir tranquilo con su familia, pero cuando un día intentan matarlo por no poder usar magia, las cosas se salen de control y acaba inscrito en una escuela mágica, donde su objetivo será convertirse en el 'Iluminado Divino', el Alumno más formidable, el elegido de Dios. ¿Podrán sus poderosos músculos derrotar a los más brillantes usuarios de magia? ¡Se alza el telón de esta historia de magia y fantasía peculiar en la que la fuerza puede con la magia!",
+            "imagen": "https://i3.ytimg.com/vi/OXQvk5-KVTw/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=OXQvk5-KVTw&pp=ygUOdHJhaWxlciBtYXNobGU%3D",
+            "categoria": "Shounen"
+        },
+        {
+            "id": 6,
+            "titulo": "Katekyo Hitman Reborn - 10th Vongola Family Special Official Trailer ||",
+            "descripcion": "Tsuna es un estudiante de preparatoria/instituto bastante tímido y que es un fracaso en absolutamente todo: los estudios, los deportes y socializar con los demás. Pero todo cambia de repente cuando ante Tsuna aparece un bebé que dice llamarse Reborn y ser un Tutor Mafioso enviado por la Familia Vongola, una poderosa Familia de la mafia italiana. Reborn acude a Tsuna para entrenarlo como ¡el décimo jefe de los Vongola!",
+            "imagen": "http://i3.ytimg.com/vi/iL4m2-nhOuI/hqdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=iL4m2-nhOuI&pp=ygUddHJhaWxlciBrYXRla3lvIGhpdG1hbiByZWJvcm4%3D",
+            "categoria": "Shounen"
+        },
+        {
+            "id": 7,
+            "titulo": "Horimiya | OFFICIAL TRAILER [English Sub]",
+            "descripcion": "Cuando el popular Hori y el sombrío Miyamura se conocen, revelan el lado oculto de sí mismos. ¿Podría ser este el comienzo de algo nuevo?",
+            "imagen": "https://i3.ytimg.com/vi/e4RCugyx5No/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=e4RCugyx5No&pp=ygUQdHJhaWxlciBob3JpbWl5YQ%3D%3D",
+            "categoria": "Shoujo"
+        },
+        {
+            "id": 8,
+            "titulo": "My Love Story with Yamada-kun at Lv999 | OFFICIAL TRAILER",
+            "descripcion": "Akane Kinoshita, una estudiante universitaria, se enfrenta a la peor de las situaciones cuando acaba rompiendo con su novio después de que este tenga una aventura con una mujer que conoció jugando a un juego online. Mientras alivia su estrés arrasando los cotos de caza abiertos de un juego online, Akane le cuenta todo a 'Yamada', un jugador que conoció por casualidad y que pertenece al mismo gremio. 'No me importa', es su cortante respuesta. Pero cuando Akane se hace un cambio de imagen y se une a un evento offline para vengarse de su exnovio, vuelve a oír esas terribles palabras. ¡Y ese fue el inesperado encuentro de Akane con 'Yamada'!",
+            "imagen": "https://i3.ytimg.com/vi/Mk8gEBzunD8/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=Mk8gEBzunD8&pp=ygUbdHJhaWxlciB5YW1hZGEga3VuIHRvIGx2OTk5",
+            "categoria": "Shoujo"
+        },
+        {
+            "id": 9,
+            "titulo": "Say 'I Love You' Trailer",
+            "descripcion": "Mei Tachibana ha gastado 16 años sin hacer ningún amigo y sin tener novio. Un día, ella golpea a uno de los chicos más populares del instituto, Yamato Kurosawa, por un malentendido, aunque parece que a partir de ahí, a él comienza a gustarle. Por suerte, él protege a Mei de un hombre que la sigue a todas partes...¿con un beso?",
+            "imagen": "https://i3.ytimg.com/vi/-RoSoU_h5SY/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=-RoSoU_h5SY&pp=ygUYc3VraXR0ZSBpaSBuYSB5byB0cmFpbGVy",
+            "categoria": "Shoujo"
         }
     ],
     "categorias" : [
