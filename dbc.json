@@ -1,0 +1,22 @@
+{
+"categorias" : [
+        {
+            "id": 1,
+            "titulo": "Deportes",
+            "descripcion": "Animes que nos narran historias que giran en torno a un deporte.",
+            "color": "#038efe"
+        },
+        {
+            "id": 2,
+            "titulo": "Shounen",
+            "descripcion": "Animes que se considera estan dirigidos al publico de hombres jovenes, por lo general incluyen accion o aventura.",
+            "color": "#8b082a"
+        },
+        {
+            "id": 3,
+            "titulo": "Shoujo",
+            "descripcion": "Animes que se considera que estan dirigidos al publico de mujeres jovenes, por lo general incluyen romance.",
+            "color": "#be8cce"
+          }
+    ]
+}
