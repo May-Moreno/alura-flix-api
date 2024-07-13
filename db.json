@@ -1,0 +1,48 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "Haikyuu!! Trailer",
+            "descripcion": "Basada en el manga original de Haruichi Furudate, el cual se publica en la Weekly Shonen Jump, Haikyu!! es un anime deportivo protagonizado por Shoyo Hinata y su amor por el voleibol. Siendo de corta estatura, le inspira un jugador al que llamaban el 'Pequeño Gigante', y decide jugar tal y como lo hizo él..",
+            "imagen": "https://i3.ytimg.com/vi/T5nHTuDT88g/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=T5nHTuDT88g&pp=ygUPaGFpa3l1dSB0cmFpbGVy",
+            "categoria": "Deportes"
+        },
+        {
+            "id": 2,
+            "titulo": "Kuroko no Basket [Trailer]",
+            "descripcion": "El equipo de baloncesto de la preparatoria Teiko. La clase que produjo tres temporadas perfectas de un solo golpe, con cinco jugadores que solo se ven una vez en su generación, llamados 'La Generación Milagrosa'..",
+            "imagen": "https://i3.ytimg.com/vi/nb7e5_4CGag/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=nb7e5_4CGag&pp=ygUZdHJhaWxlciBrdXJva28gbm8gYmFza2V0IA%3D%3D",
+            "categoria": "Deportes"
+        },
+        {
+            "id": 3,
+            "titulo": "Yowamushi Pedal Grande Road Part 1 (Eps 1-12) (Subtitled Edition) - Official Trailer",
+            "descripcion": "Onoda Sakamichi es un estudiante de primero en la Preparatoria Sohoku, aunque es tímido y lo que más le gusta es el anime. Al entrar a la preparatoria decide unirse al club de anime, pero tras encontrarse con Imaizumi Shunsuke, un reconocido ciclista desde secundaria, y Naruko Shoukichi, quien luchó por el campeonato de ciclismo de Kansai, acaba uniéndose al competitivo club de ciclismo.",
+            "imagen": "https://i3.ytimg.com/vi/lKdje2IjmMw/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=lKdje2IjmMw&pp=ygUXdHJhaWxlciB5b3dhbXVzaGkgcGVkYWw%3D",
+            "categoria": "Deportes"
+        }
+    ],
+    "categorias" : [
+        {
+            "id": 1,
+            "titulo": "Deportes",
+            "descripcion": "Animes que nos narran historias que giran en torno a un deporte.",
+            "color": "#038efe"
+        },
+        {
+            "id": 2,
+            "titulo": "Shounen",
+            "descripcion": "Animes que se considera estan dirigidos al publico de hombres jovenes, por lo general incluyen accion o aventura.",
+            "color": "#8b082a"
+        },
+        {
+            "id": 3,
+            "titulo": "Shoujo",
+            "descripcion": "Animes que se considera que estan dirigidos al publico de mujeres jovenes, por lo general incluyen romance.",
+            "color": "#be8cce"
+          }
+    ]
+}
